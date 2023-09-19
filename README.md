@@ -24,9 +24,9 @@ The following **additional** features are implemented:
       Added images to the website
 
 ## Video Walkthrough
-
-Here's a walkthrough of implemented required features:
 Link to gif: https://imgur.com/a/kGH1Z0c
+Here's a walkthrough of implemented required features:
+
 <img src='https://imgur.com/a/kGH1Z0c' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with ScreenToGif 
